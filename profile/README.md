@@ -1,12 +1,31 @@
-## Hi there 👋
+# 🎓 QUEUE-SW: 수강신청 대기열 시스템
 
-<!--
+> **QUEUE-SW**는 대규모 트래픽 환경에서의 안정적인 수강신청 처리를 위해 설계된 **대기열 기반 수강신청 시스템**입니다.  
+> 스프링 기반 서버 구조와 병렬 분산 처리 기술을 활용하여 높은 동시성을 지원합니다.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🧭 프로젝트 개요
+
+- **목표**: 대학교 수강신청 시 과부하를 방지하고, **안정적이고 사용하기 편한 대기열 기반 수강 시스템** 제공
+- **특징**
+  - 대기열 기반 사용자 처리
+  - 고가용성 / 확장성 고려 설계
+  - Kafka, Redis, Spring Boot 등 최신 스택 사용
+  - SSE 기반 실시간 피드백 제공
+  - 사용자가 사용하긴 편한 UI/UX 제공
+
+---
+
+## 🛠️ 기술 스택
+
+| 구성 요소        | 기술 명세                          |
+|------------------|-----------------------------------|
+| **Backend**      | Java 17, Spring Boot, Spring Web |
+| **Queue 시스템** | Kafka, Redis                      |
+| **DB/Cache**     | Redis, MySQL                      |
+| **API 통신**     | REST API, SSE                    |
+| **배포환경**     | Docker, AWS EC2                   |
+
+---
+
