@@ -22,7 +22,7 @@
 | 구성 요소        | 기술 명세                          |
 |------------------|-----------------------------------|
 | **Backend**      | Java 17, Spring Boot, Spring Web |
-| **Queue 시스템** | Kafka, Redis                      |
+| **Queue 시스템** | Redis                      |
 | **DB/Cache**     | Redis, MySQL                      |
 | **API 통신**     | REST API, SSE                    |
 | **배포환경**     | Docker, AWS EC2                   |
