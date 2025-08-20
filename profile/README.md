@@ -11,7 +11,7 @@
 - **특징**
   - 대기열 기반 사용자 처리
   - 고가용성 / 확장성 고려 설계
-  - Kafka, Redis, Spring Boot 등 최신 스택 사용
+  - Redis, Spring Boot 등 최신 스택 사용
   - SSE 기반 실시간 피드백 제공
   - 사용자가 사용하긴 편한 UI/UX 제공
 
