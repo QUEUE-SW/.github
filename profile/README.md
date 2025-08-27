@@ -50,7 +50,7 @@
 ---
 
 ## 👽 팀원 소개 및 역할 분담
-|팀장&PM&BE|BE|PM&FE|FE|
+|👑 BE 👑|BE|FE|FE|
 |:-:|:-:|:-:|:-:|
 |<img height="150" src="https://avatars.githubusercontent.com/mingking2"/>|<img height="150" src="https://avatars.githubusercontent.com/MinjiSeo16"/>|<img height="150" src="https://avatars.githubusercontent.com/cryingdryice"/>|<img height="150" src="https://avatars.githubusercontent.com/jihyun132"/>|
 |[주민기](https://github.com/mingking2)|[서민지](https://github.com/MinjiSeo16)|[박지원](https://github.com/cryingdryice)|[김지현](https://github.com/jihyun132)|
