@@ -17,33 +17,6 @@
 
 ---
 
-## ⚙ 시스템 아키텍처
-- 프론트 아키텍처
-<img width="720" height="273" alt="______________________720" src="https://github.com/user-attachments/assets/590b5df0-5f2b-44c3-b674-fbd575ffeee5" />
-
-- 백엔드 아키텍처(6단계)
-  - 기본 MVC
-  <img width="719" height="264" alt="image_720" src="https://github.com/user-attachments/assets/ace93d2e-04ed-410c-869c-6e82c2b9abd2" />
-  
-  - Polling + 대기열 도입
-  <img width="720" height="502" alt="image_720" src="https://github.com/user-attachments/assets/a5c0e04a-1f4a-430f-a6e2-5528bbaf8990" />
-
-  - SSE로 변경
-  <img width="720" height="517" alt="image_720" src="https://github.com/user-attachments/assets/b392c8c4-ef20-4184-b6ef-926e8032829f" />
-
-  - Redis 도입
-  <img width="720" height="466" alt="image_720" src="https://github.com/user-attachments/assets/6c855b75-6510-46e5-aa75-71cb0c6a66a9" />
-
-  - 실시간 여석 조회
-  <img width="480" height="320" alt="image_480" src="https://github.com/user-attachments/assets/661cfc8d-a24f-46a4-8a97-e2d7885c2597" />
-
-  - 최종 Polling 다시 도입
-  <img width="720" height="469" alt="image_720" src="https://github.com/user-attachments/assets/be758b08-539b-46c0-ad83-1dc7b865721c" />
-
-- 다이어그램
-- 
----
-
 ## 🛠️ 기술 스택
 
 | 구성 요소        | 기술 명세                          |
