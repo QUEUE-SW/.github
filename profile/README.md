@@ -19,13 +19,14 @@
 
 ## 🛠️ 기술 스택
 
-| 구성 요소        | 기술 명세                          |
-|------------------|-----------------------------------|
-| **Backend**      | Java 17, Spring Boot, Spring Web |
-| **Queue 시스템** | Redis                      |
-| **DB/Cache**     | Redis, MySQL                      |
-| **API 통신**     | REST API, SSE                    |
-| **배포환경**     | Docker, AWS EC2                   |
+| 구성 요소        | 기술 명세                                    |
+|------------------|----------------------------------------------|
+| **Frontend**     | JavaScript, React + VITE, Zustand            |
+| **Backend**      | Java 17, Spring Boot                         |
+| **Queue 시스템** | Redis                                        |
+| **DB/Cache**     | Redis, MySQL                                 |
+| **API 통신**     | REST API, SSE                                |
+| **배포환경**     | Docker, AWS EC2, AWS S3, CloudFront, Route53 |
 
 ---
 
