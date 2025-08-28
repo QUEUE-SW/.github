@@ -59,3 +59,4 @@
 ---
 
 ## 🎞 시연 영상
+[오픈소스 기반 수강신청 대기열 시스템 개발](https://www.youtube.com/watch?v=T_8bqxawZQY)
