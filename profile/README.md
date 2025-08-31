@@ -39,7 +39,7 @@
 ## 📌 레포지토리 구조
 - [AllClear-web](https://github.com/QUEUE-SW/AllClear-web) : 사용자 화면 및 인터페이스
 - [AllClear-was](https://github.com/QUEUE-SW/AllClear-was) : 핵심 비즈니스 로직
-- [QUEUE-was](https://github.com/QUEUE-SW/AllClear-was) :대기열 관리
+- [QUEUE-was](https://github.com/QUEUE-SW/QUEUE-was) : 대기열 관리
 
 <br>
 
