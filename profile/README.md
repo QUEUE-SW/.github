@@ -26,6 +26,7 @@
 | **DB/Cache**     | Redis 7.1, MySQL 8.0.41                      |
 | **API 통신**     | REST API, SSE, Polling                       |
 | **배포환경**     | AWS EC2, Docker, RDS, ElastiCache, Nginx, AWS S3, CloudFront, Route53 |
+|**협업 도구**   |Jira, Confluence, Slack|
 
 <br> 
 
